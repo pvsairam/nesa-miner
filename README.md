@@ -101,7 +101,8 @@ cat $HOME/.nesa/identity/node_id.id
 PUB_KEY=$(cat $HOME/.nesa/identity/node_id.id)
 echo https://node.nesa.ai/nodes/$PUB_KEY
 ```
-## SS
+![image](https://github.com/user-attachments/assets/a8fbec76-690c-4249-a968-81fb5c9f0152)
+
 
 ## OptionaL: Update or Restart node
 * For existing nodes that just need to update their configuration or restart their node
